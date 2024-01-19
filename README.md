@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-rajput04&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-rajput04" /> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **khushirajput147@gmail.com**
 
-- ⚡ Fun fact **I like Anime.**
+- ⚡ Fun fact **I love Chai + Debugging**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
