@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Rajput</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-rajput04&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-rajput04" /> </p>
