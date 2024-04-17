@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **khushirajput147@gmail.com**
 
